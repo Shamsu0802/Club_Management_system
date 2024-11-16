@@ -41,6 +41,8 @@ A web application for managing club events, allowing different user roles (Admin
 1. Access the application through a local server (`http://localhost/club-event-management/`).
 2. Log in using the admin credentials.
 3. Create user accounts for faculty and students as needed.
+## **Screenshots**
+![Uploading 1.png…]()
 
 ## **License**
 This project is licensed under the MIT License.
